@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# Mágica do Calendário
 
 Rápida descrição do objetivo de fazer esse projeto
 
