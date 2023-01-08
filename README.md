@@ -36,7 +36,7 @@ Check out how this is possible by the code I wrote to perform the magic.
 This magic was taken from the book: 'Mágicas, Matemática e outros mistérios', written by João Carlos Vieira Sampaio and 
 Pedro Luiz Aparecido Malagutti, professors at UFSCAR(Federal University of São Carlos).
 
-![CAPA LIVRO](https://github.com/ViniciusValdivia/Magica-Calendario-Vitrine.Dev-/blob/main/LIVRO%20M%C3%81GICA.png)
+![CAPA LIVRO](https://github.com/ViniciusValdivia/Magica-Calendario-Vitrine.Dev-/blob/main/LIVRO%20M%C3%81GICA.png#vitrinedev)
 
 The subject of mathematics involved in magic is the binary number system.
 
