@@ -1,17 +1,64 @@
 # Mágica do Calendário
 
-Rápida descrição do objetivo de fazer esse projeto
+Você sabia que com 5 respostas entre sim e não, é possível descobrir o dia do seu aniversário?
 
-| :placard: Vitrine.Dev |     |
+| :placard: **Mágica do Calendário** |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Mágica do Calendário**
+| :label: Tecnologias | Python
+
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![CALENDÁRIO](https://github.com/ViniciusValdivia/Magica-Calendario-Vitrine.Dev-/blob/main/M%C3%81GICA%20CALEND%C3%81RIO.png#vitrinedev)
 
-## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+<h1 align="center"> Mágica do Calendário (Magic Calendar) </h1>
+
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO%20(V1)&color=GREEN&style=for-the-badge"/>
+</p>
+
+# Índice 
+
+* [The Magic](#The-Magic)
+* [Project description](#Project-description)
+* [Conclusion](#Conclusion)
+
+
+# The Magic
+Considering the calendars above, in which one is your birthday underlined?
+
+With your yes or no answer to each of the calendars it is possible to determine your birthday using some mathematical rules.
+
+Check out how this is possible by the code I wrote to perform the magic.
+
+# Project description
+This magic was taken from the book: 'Mágicas, Matemática e outros mistérios', written by João Carlos Vieira Sampaio and 
+Pedro Luiz Aparecido Malagutti, professors at UFSCAR(Federal University of São Carlos).
+
+![CAPA LIVRO](https://github.com/ViniciusValdivia/Magica-Calendario-Vitrine.Dev-/blob/main/LIVRO%20M%C3%81GICA.png)
+
+The subject of mathematics involved in magic is the binary number system.
+
+For this project I present three codes in Python so that the computer can perform the magic: the first code provides a basic understanding of
+what is happening with the calendars and the underlined days. 
+When I applied this magic with high school students, those who decided to crack it were able to conceptualize this rule, but 
+without really knowing why this technique worked.
+
+The second code uses the remainders of divisions by powers of 2 (binary numbers behind the scenes). This was the first of the three codes I created; 
+at the beginning of my studies with little knowledge I was able to elaborate the code with only basic mathematical operations.
+
+And in the third code the idea is to use the transformation of decimal numbers to binary and vice versa.
+
+IMPORTANT: This project was made in portuguese (BR).
+
+# Conclusion
+Carrying out the project so far is rewarding and even stimulating to improve and deepen this study. In 2021 I participated in an exhibition 
+and presented this project to high school students at the Federal Institute of São Paulo (IFSP) on the Guarulhos campus.
+https://www.youtube.com/watch?v=0IPMY-6vT0U&list=PL7fO0BRIbBh-scPN92m5QSrtAUVG15kRy&index=5
+
+I believe that it is possible to elaborate an even more economical code in its writing, using mathematical ideas.
+
+I still intend to extend the project to the area of data science and present interesting statistical results for those who participated in the magic.
+
+Do you know the birthday paradox?
